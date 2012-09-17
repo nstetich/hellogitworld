@@ -1,3 +1,4 @@
+// Nick was here.
 import static Square.square
 import static Division.divide
 import static Subtract.subtract
