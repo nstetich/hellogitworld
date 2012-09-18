@@ -1,0 +1,3 @@
+[submodule "gt08_submodule"]
+	path = gt08_submodule
+	url = https://github.com/githubtraining/gt08_submodule.git
